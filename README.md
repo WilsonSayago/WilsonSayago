@@ -21,9 +21,17 @@ Hi there! I'm Wilson Sayago, a passionate software developer with a love for cod
 
 ## 🚀 Top Projects
 
-- [Project 1](https://github.com/WilsonSayago/project1): Brief description of Project 1.
-- [Project 2](https://github.com/WilsonSayago/project2): Brief description of Project 2.
-- [Project 3](https://github.com/WilsonSayago/project3): Brief description of Project 3.
+- [authBase](https://github.com/WilsonSayago/authBase): A basic authentication boilerplate.
+- [initModules](https://github.com/WilsonSayago/initModules): A Go library for configuration initialization and process management.
+- [hexagonal-architecture-golang](https://github.com/WilsonSayago/hexagonal-architecture-golang): A template for hexagonal architecture in Golang.
+- [hexagonal-architecture-java](https://github.com/WilsonSayago/hexagonal-architecture-java): A template for hexagonal architecture in Java.
+- [base](https://github.com/WilsonSayago/base): A base template for projects using hexagonal architecture with MongoDB.
+- [messaging](https://github.com/WilsonSayago/messaging): A RabbitMQ Go wrapper for message publishing and subscription.
+- [base-nest-graphql-hexagonal](https://github.com/WilsonSayago/base-nest-graphql-hexagonal): A Node.js application with NestJS, GraphQL, and MongoDB following hexagonal architecture.
+- [base-nest-hexagonal](https://github.com/WilsonSayago/base-nest-hexagonal): A REST API with Node.js, NestJS, and MongoDB following hexagonal architecture.
+- [call-api-xml](https://github.com/WilsonSayago/call-api-xml): A TypeScript module for interacting with SOAP web services using XML.
+- [grpc-golang](https://github.com/WilsonSayago/grpc-golang): A basic template for gRPC in Golang.
+- [rest-golang](https://github.com/WilsonSayago/rest-golang): A basic template for REST APIs in Golang.
 
 ## 🛠️ Technologies & Tools
 
