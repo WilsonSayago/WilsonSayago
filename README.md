@@ -47,6 +47,6 @@ Hi there! I'm Wilson Sayago, a passionate software developer with a love for cod
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/wilson-jesus-sayago-lugo-14b6b995)
-- [Youtube](https://www.youtube.com/@thinkfirstcode))
+- [Youtube](https://www.youtube.com/@thinkfirstcode)
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on any exciting projects.
