@@ -1,7 +1,7 @@
 # Wilson Sayago
 
 [![GitHub followers](https://img.shields.io/github/followers/WilsonSayago?label=Follow&style=social)](https://github.com/WilsonSayago)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wilsonsayago/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/wilson-jesus-sayago-lugo-14b6b995/)
 
 ## 👋 About Me
 
@@ -11,8 +11,6 @@ Hi there! I'm Wilson Sayago, a passionate software developer with a love for cod
 - 🌱 I’m currently learning advanced topics in AI and machine learning.
 - 👯 I’m looking to collaborate on open-source projects and innovative startups.
 - 💬 Ask me about software development, AI, and tech innovations.
-- 📫 How to reach me: [wilson.sayago@example.com](mailto:wilson.sayago@example.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new places.
 
 ## 📊 GitHub Stats
@@ -36,10 +34,8 @@ Hi there! I'm Wilson Sayago, a passionate software developer with a love for cod
 ## 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -50,8 +46,7 @@ Hi there! I'm Wilson Sayago, a passionate software developer with a love for cod
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/wilsonsayago/)
-- [Twitter](https://twitter.com/WilsonSayago)
-- [Email](mailto:wilson.sayago@example.com)
+- [LinkedIn](https://www.linkedin.com/in/wilson-jesus-sayago-lugo-14b6b995)
+- [Youtube](https://www.youtube.com/@thinkfirstcode))
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on any exciting projects.
